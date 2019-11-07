@@ -1,0 +1,20 @@
+module SqrtCORDIC(input        Start,
+                  input        clk,
+                  output       Stop);
+
+
+/// D A T A   U N I T   variables
+
+wire gatedClk;
+
+assign gatedClk = clk & ~Stop;
+						
+						
+						
+						
+						
+						
+						
+						
+						
+endmodule
