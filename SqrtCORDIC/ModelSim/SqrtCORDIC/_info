@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+vSqrtCORDIC
+!s110 1572768210
+!i10b 1
+!s100 lO>U<aB`:S_[YMA8cb]>a2
+I:[?I[`EYFL5_^Uk=1edE00
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim
+w1572767608
+8C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/SqrtCORDIC.v
+FC:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/SqrtCORDIC.v
+L0 1
+Z2 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1572768210.000000
+!s107 C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/SqrtCORDIC.v|
+!s90 -reportprogress|300|-work|SqrtCORDIC|-stats=none|C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/SqrtCORDIC.v|
+!i113 1
+Z3 o-work SqrtCORDIC
+n@sqrt@c@o@r@d@i@c
+vTestbench
+!s110 1572769547
+!i10b 1
+!s100 m17nc<^E`Y3m7zl8jY;]K0
+I[?`[R<5>Wf_^3mf]o6Gc<3
+R0
+R1
+w1572769537
+8C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/Testbench.v
+FC:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/Testbench.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1572769547.000000
+!s107 C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/Testbench.v|
+!s90 -reportprogress|300|-work|SqrtCORDIC|-stats=none|C:/Users/UPNM/Desktop/SqrtCORDIC/ModelSim/Testbench.v|
+!i113 1
+R3
+n@testbench
