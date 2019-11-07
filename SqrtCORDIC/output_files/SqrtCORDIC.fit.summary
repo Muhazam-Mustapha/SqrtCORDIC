@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sun Nov 03 16:45:42 2019
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : SqrtCORDIC
+Top-level Entity Name : SqrtCORDIC
+Family : Cyclone V
+Device : 5CGXFC7C7F23C8
+Timing Models : Final
+Logic utilization (in ALMs) : 54 / 56,480 ( < 1 % )
+Total registers : 86
+Total pins : 59 / 268 ( 22 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 7,024,640 ( 0 % )
+Total RAM Blocks : 0 / 686 ( 0 % )
+Total DSP Blocks : 1 / 156 ( < 1 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 13 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
