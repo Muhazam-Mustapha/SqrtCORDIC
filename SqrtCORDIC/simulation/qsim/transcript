@@ -1,0 +1,47 @@
+# do SqrtCORDIC.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 16:51:06 on Nov 03,2019
+# vlog -work work SqrtCORDIC.vo 
+# -- Compiling module SqrtCORDIC
+# 
+# Top level modules:
+# 	SqrtCORDIC
+# End time: 16:51:07 on Nov 03,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 16:51:07 on Nov 03,2019
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module SqrtCORDIC_vlg_vec_tst
+# 
+# Top level modules:
+# 	SqrtCORDIC_vlg_vec_tst
+# End time: 16:51:07 on Nov 03,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.SqrtCORDIC_vlg_vec_tst -voptargs=""+acc"" 
+# Start time: 16:51:07 on Nov 03,2019
+# Loading work.SqrtCORDIC_vlg_vec_tst
+# Loading work.SqrtCORDIC
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (1) does not match connection size (26) for port 'az'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (16) does not match connection size (18) for port 'bx'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (16) does not match connection size (19) for port 'by'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (1) does not match connection size (18) for port 'bz'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (24) does not match connection size (27) for port 'scanin'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) SqrtCORDIC.vo(2804): [PCDPC] - Port size (64) does not match connection size (1) for port 'chainin'. The port definition is at: nofile(38).
+#    Time: 0 ps  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8  File: nofile
+# ** Warning: (vsim-3015) <protected>(<protected>): [PCDPC] - Port size (<protected>) does not match connection size (<protected>) for <protected>.<protected>
+#    Time: 0 ps  Iteration: 0  Protected: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8 /<protected>/<protected> File: nofile
+# ** Warning: (vsim-3015) <protected>(<protected>): [PCDPC] - Port size (<protected>) does not match connection size (<protected>) for <protected>.<protected>
+#    Time: 0 ps  Iteration: 0  Protected: /SqrtCORDIC_vlg_vec_tst/i1/\Mult0~8 /<protected>/<protected> File: nofile
+# ** Note: $finish    : Waveform.vwf.vt(51)
+#    Time: 1 us  Iteration: 0  Instance: /SqrtCORDIC_vlg_vec_tst
+# End time: 16:51:08 on Nov 03,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 8

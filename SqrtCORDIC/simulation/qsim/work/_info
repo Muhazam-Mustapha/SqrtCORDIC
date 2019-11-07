@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/UPNM/Desktop/SqrtCORDIC/simulation/qsim
+vSqrtCORDIC
+Z1 !s110 1572771067
+!i10b 1
+!s100 ]mUjA@2JboKXA52:JiEn:2
+Id;CkI<?4<`K8K<N2M_R^12
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1572771065
+8SqrtCORDIC.vo
+FSqrtCORDIC.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1572771066.000000
+!s107 SqrtCORDIC.vo|
+!s90 -work|work|SqrtCORDIC.vo|
+!i113 1
+Z4 o-work work
+n@sqrt@c@o@r@d@i@c
+vSqrtCORDIC_vlg_vec_tst
+R1
+!i10b 1
+!s100 4<3MM]0>h]:Bgh2UN>i:11
+IN92ni6Bi@zdnQC2HFX;BC1
+R2
+R0
+w1572771064
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+!s108 1572771067.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+n@sqrt@c@o@r@d@i@c_vlg_vec_tst
