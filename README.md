@@ -14,5 +14,8 @@ For example, if you want to calculate the square root of 35.61<sub>10</sub>, you
 
 For example, if you are reading a binary sequence of 0011 1100 0110 1011 0000 1000 at the output after the calculation completed, the actual value in decimal is the plain integer binary value divided by 2<sup>16</sup> = 3959560&times;2<sup>&minus;16</sup> = 60.4180.
 
+## Signaling Sequence
+\[to be added\]
+
 ## Data Flow Diagram
 ![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/blob/master/Dataflow.png)
