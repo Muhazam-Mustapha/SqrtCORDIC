@@ -12,5 +12,7 @@ For example, if you want to calculate the square root of 35.61<sub>10</sub>, you
 **Format:** \[8.16\] fixed point notation - 8 bits for integer part, 16 bits for fraction part.
 * Number of bits in integer part of the square root is half of the original number, but the number of bits in the fraction part is kept at 16 to preserve accuracy.
 
+For example, if you are reading a binary value of 0011 1100 0110 1011 0000 1000 at the output after the calculation completed, the actual value in decimal is the integer binary value divided by 2<sup>16</sup> = 3959560&times;2<sup>&minus;16</sup>
+
 ## Data Flow Diagram
 ![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/blob/master/Dataflow.png)
