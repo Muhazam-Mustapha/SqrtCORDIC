@@ -15,8 +15,13 @@ For example, if you want to calculate the square root of 35.61<sub>10</sub>, you
 For example, if you are reading a binary sequence of 0011 1100 0110 1011 0000 1000 at the output after the calculation completed, the actual value in decimal is the plain integer binary value divided by 2<sup>16</sup> = 3959560&times;2<sup>&minus;16</sup> = 60.4180.
 
 ## Signaling Sequence
-\[to be added\]
-![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/SqrtCORDIC/Capture2.PNG)
+Start signal needs to go up for at least a complete 2 clock cycles, then goes down again. After that the calculation starts.
+
+The calculation requires 8+16 = 24 clocks to finish. The completion of the calculation is signifies by the raise of Stop signal.
+
+The diagram below shows the waveform of the calculation of the square root of 2000.45<sub>10</sub> = 131101491<sub>\[16.16\]</sub>. When the Stop signal finally goes high, the value of the square root (Result) is 2931188<sub>\[8.16\]</sub> = 2931188<sub>10</sub>&times;2<sup>&minus;16</sup> = 44.726<sub>10</sub>, accurate to 3 decimal fraction places.
+
+![Signaling Sequence](https://github.com/Muhazam-Mustapha/SqrtCORDIC/blob/master/SqrtCORDIC/Capture2.PNG)
 
 ## Data Flow Diagram
 ![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/blob/master/Dataflow.png)
