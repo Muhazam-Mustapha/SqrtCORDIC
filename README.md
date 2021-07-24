@@ -16,6 +16,7 @@ For example, if you are reading a binary sequence of 0011 1100 0110 1011 0000 10
 
 ## Signaling Sequence
 \[to be added\]
+![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/SqrtCORDIC/Capture2.PNG)
 
 ## Data Flow Diagram
 ![Data Flow Diagram](https://github.com/Muhazam-Mustapha/SqrtCORDIC/blob/master/Dataflow.png)
